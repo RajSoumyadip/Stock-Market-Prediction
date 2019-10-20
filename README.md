@@ -6,3 +6,5 @@ ARIMA is a very popular statistical method for time series forecasting. ARIMA st
 
 The data series is stationary, which means that the mean and variance should not vary with time. A series can be made stationary by using log transformation or differencing the series.
 The data provided as input must be a univariate series, since arima uses the past values to predict the future values.
+
+The prediction is done for a particular company. The company taken up fro analysis and prediction is APPLE.
